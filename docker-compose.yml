@@ -1,6 +1,17 @@
-version: "3"
+version: '3'
 services:
-  jupyter_container:
-    image: jupyter
+  this_jupyter:
+    build: docker/jupyter/
     ports:
-      - "8888:8888"
+     - 8888:8888
+    volumes:
+      - .:/home/jovyan
+  this_postgres:
+    build: docker/postgres
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_HOST_AUTH_METHOD=trust
+
+volumes:
+  postgres_data:
