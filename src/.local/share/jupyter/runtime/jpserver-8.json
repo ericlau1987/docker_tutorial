@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 8,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "73b1d44a7c2ebce9623c732044818d4f873ad36508944c8a",
+  "url": "http://77539d22078f:8888/",
+  "version": "1.13.4"
+}
