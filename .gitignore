@@ -1,0 +1,9 @@
+.DS_STORE
+.ipynb
+.cache/
+.vscode-server/
+.ipython/
+src/.ipynb_checkpoints/
+src/.ipython/
+src/.jupyter/
+src/.local/

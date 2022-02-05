@@ -85,3 +85,25 @@ Info 12:53:28: Cell 2 executed with state Error
 Info 12:53:38: Execute Cells request 2
 Info 12:53:38: Execute Cell 2 /workspace/src/postgres_jupyter.ipynb
 Info 12:53:39: Cell 2 executed with state Success
+Info 12:55:22: Execute Cells request 5
+Info 12:55:22: Execute Cell 5 /workspace/src/postgres_jupyter.ipynb
+Info 12:55:22: Cancel all remaining cells true || Error
+Info 12:55:22: Cancel pending cells
+Info 12:55:22: Cell 5 executed with state Error
+Info 12:55:25: Execute Cells request 4
+Info 12:55:25: Execute Cell 4 /workspace/src/postgres_jupyter.ipynb
+Info 12:55:25: Cancel all remaining cells true || Error
+Info 12:55:25: Cancel pending cells
+Info 12:55:25: Cell 4 executed with state Error
+Info 12:55:31: Execute Cells request 1
+Info 12:55:31: Execute Cell 1 /workspace/src/postgres_jupyter.ipynb
+Info 12:55:31: Cell 1 executed with state Success
+Info 12:55:34: Execute Cells request 4
+Info 12:55:34: Execute Cell 4 /workspace/src/postgres_jupyter.ipynb
+Info 12:55:34: Cell 4 executed with state Success
+Info 12:55:36: Execute Cells request 5
+Info 12:55:36: Execute Cell 5 /workspace/src/postgres_jupyter.ipynb
+Info 12:55:36: Cell 5 executed with state Success
+Info 12:55:39: Execute Cells request 6
+Info 12:55:39: Execute Cell 6 /workspace/src/postgres_jupyter.ipynb
+Info 12:55:39: Cell 6 executed with state Success
