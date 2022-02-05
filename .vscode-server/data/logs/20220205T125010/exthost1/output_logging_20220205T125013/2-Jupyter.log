@@ -107,3 +107,4 @@ Info 12:55:36: Cell 5 executed with state Success
 Info 12:55:39: Execute Cells request 6
 Info 12:55:39: Execute Cell 6 /workspace/src/postgres_jupyter.ipynb
 Info 12:55:39: Cell 6 executed with state Success
+Info 13:03:59: Notebook Closed /workspace/src/test_sample.ipynb
