@@ -51,3 +51,5 @@
 
 [2022-02-05 12:53:19.069] [remoteagent] [info] [127.0.0.1][e7b560f2][ExtensionHostConnection] <259> Kernel: starting (3179e3cd-150d-457c-8733-4ec241f0e635)
 
+[2022-02-05 13:08:16.176] [remoteagent] [info] [127.0.0.1][80a5cbc7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-05 13:08:16.440] [remoteagent] [info] [127.0.0.1][e7b560f2][ExtensionHostConnection] <259> Extension Host Process exited with code: 0, signal: null.
