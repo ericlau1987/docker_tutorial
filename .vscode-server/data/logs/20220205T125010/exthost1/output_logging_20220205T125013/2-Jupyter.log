@@ -1,0 +1,87 @@
+Visual Studio Code (1.64.0, dev-container, desktop)
+Jupyter Extension Version: 2022.1.1001775990.
+Python Extension not installed.
+User belongs to experiment group 'jupyterTestcf'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 12:50:40: ZMQ install verified.
+Info 12:50:40: Find preferred kernel for /workspace/src/postgres_jupyter.ipynb with metadata {"kernelspec":{"display_name":"Python 3 (ipykernel)","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.9.7"}} & preferred interpreter 
+Info 12:50:40: findKernel found Python 3.8.9 64-bit
+Info 12:50:40: Find preferred kernel for /workspace/src/test_sample.ipynb with metadata {"kernelspec":{"display_name":"Python 3 (ipykernel)","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.9.7"}} & preferred interpreter 
+Info 12:50:40: findKernel found Python 3.8.9 64-bit
+Info 12:50:40: PreferredConnection: .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher found for NotebookDocument: /workspace/src/postgres_jupyter.ipynb
+Info 12:50:40: TargetController found ID: .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher for document /workspace/src/postgres_jupyter.ipynb
+Info 12:50:40: Setting controller affinity for /workspace/src/postgres_jupyter.ipynb .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+Info 12:50:40: PreferredConnection: .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher found for NotebookDocument: /workspace/src/test_sample.ipynb
+Info 12:50:40: TargetController found ID: .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher for document /workspace/src/test_sample.ipynb
+Info 12:50:40: Setting controller affinity for /workspace/src/test_sample.ipynb .jvsc74a57bd031f2aee4e71d21fbe5cf8b01ff0e069b9275f58929596ceb00d14d90e3e16cd6./usr/bin/python3./usr/bin/python3.-m#ipykernel_launcher
+Info 12:51:57: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+Info 12:51:57: Getting activation commands for /usr/bin/python3 are not cached. May take a while.
+Info 12:51:57: Process Execution: > /usr/bin/python3 -m pip list
+> /usr/bin/python3 -m pip list
+Info 12:51:57: Process Execution: > /usr/bin/python3 -c "import pip"
+> /usr/bin/python3 -c "import pip"
+Info 12:53:17: Interrupt requested & no kernel.
+Info 12:53:17: Setting setActiveController for /workspace/src/postgres_jupyter.ipynb
+Info 12:53:17: KernelProvider switched kernel to id = .jvsc74a57bd0d4d1e4263499bec80672ea0156c357c1ee493ec2b1c70f0acce89fc37c4a6abe./opt/conda/python./opt/conda/python.-m#ipykernel_launcher
+Info 12:53:17: Starting Notebook in kernel.ts id = .jvsc74a57bd0d4d1e4263499bec80672ea0156c357c1ee493ec2b1c70f0acce89fc37c4a6abe./opt/conda/python./opt/conda/python.-m#ipykernel_launcher
+Info 12:53:17: Creating raw notebook for /workspace/src/postgres_jupyter.ipynb
+Info 12:53:17: Getting preferred kernel for /workspace/src/postgres_jupyter.ipynb
+Info 12:53:17: Computing working directory /workspace/src/postgres_jupyter.ipynb
+Info 12:53:17: Starting raw kernel base (Python 3.9.7)
+Info 12:53:17: installMissingDependencies /opt/conda/bin/python
+Info 12:53:17: IPykernel found previously in this environment /opt/conda/bin/python
+Info 12:53:17: Kernel launching with ports 9000,9001,9002,9003,9004. Start port is 9000
+Info 12:53:18: Process Execution: > /opt/conda/bin/python -m pip list
+> /opt/conda/bin/python -m pip list
+Info 12:53:18: Process Execution: > /opt/conda/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> /opt/conda/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+Info 12:53:18: Process Execution: > /opt/conda/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"aa40d5fc-f6f9-4be7-a4d9-2c564b33dbfa" --shell=9002 --transport="tcp" --iopub=9004 --f=/tmp/tmp-2596lNC6DPkMxC0.json
+> /opt/conda/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"aa40d5fc-f6f9-4be7-a4d9-2c564b33dbfa" --shell=9002 --transport="tcp" --iopub=9004 --f=/tmp/tmp-2596lNC6DPkMxC0.json
+Info 12:53:18: Process Execution: cwd: /workspace/src
+cwd: /workspace/src
+Info 12:53:18: ipykernel version 6.8.0 for /opt/conda/bin/python
+Info 12:53:18: ipykernel location /opt/conda/lib/python3.9/site-packages/ipykernel/__init__.py for /opt/conda/bin/python
+Info 12:53:18: Got activated conda env vars ourselves for /opt/conda/bin/python in 882
+Warn 12:53:18: StdErr from Kernel Process /opt/conda/lib/python3.9/site-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+
+Warn 12:53:18: StdErr from Kernel Process /opt/conda/lib/python3.9/site-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'aa40d5fc-f6f9-4be7-a4d9-2c564b33dbfa' instead of 'b"aa40d5fc-f6f9-4be7-a4d9-2c564b33dbfa"'.
+  warn(
+
+Info 12:53:18: Kernel Output: NOTE: When using the `ipython kernel` entry point, Ctrl-C will not work.
+
+To exit, you will have to explicitly quit this process, by either sending
+"quit" from a client, or using Ctrl-\ in UNIX-like environments.
+
+To read more about this, see https://github.com/ipython/ipython/issues/2049
+
+
+To connect another client to this kernel, use:
+    --existing /tmp/tmp-2596lNC6DPkMxC0.json
+
+Warn 12:53:19: Didn't get response for requestKernelInfo after 21ms.
+Info 12:53:19: Raw session started and connected
+Started kernel base (Python 3.9.7)
+Info 12:53:19: Finished connecting cb497960-38a0-4601-b97f-3111954baa65
+Info 12:53:19: Execute Cells request 0
+Info 12:53:19: Execute Cell 0 /workspace/src/postgres_jupyter.ipynb
+Info 12:53:19: Executing silently Code (idle) = import sys\nprint(sys.executable)
+Info 12:53:19: Executing silently Code (completed) = import sys\nprint(sys.executable)
+Info 12:53:19: UpdateWorkingDirectoryAndPath in Kernel
+Info 12:53:19: Executing silently Code (idle) = import site\nsite.addsitedir(site.getusersitepackages())\nimport os\nimport sys\n%cd "/workspace/src"\nif
+Info 12:53:19: Executing silently Code (completed) = import site\nsite.addsitedir(site.getusersitepackages())\nimport os\nimport sys\n%cd "/workspace/src"\nif
+Info 12:53:19: Waiting for idle on (kernel): 3179e3cd-150d-457c-8733-4ec241f0e635 -> idle
+Info 12:53:19: Finished waiting for idle on (kernel): 3179e3cd-150d-457c-8733-4ec241f0e635 -> idle
+Info 12:53:20: Registering dummy command feature
+Info 12:53:20: Cell 0 executed with state Success
+Info 12:53:23: Execute Cells request 1
+Info 12:53:23: Execute Cell 1 /workspace/src/postgres_jupyter.ipynb
+Info 12:53:23: Cell 1 executed with state Success
+Info 12:53:27: Execute Cells request 2
+Info 12:53:27: Execute Cell 2 /workspace/src/postgres_jupyter.ipynb
+Info 12:53:28: Cancel all remaining cells true || Error
+Info 12:53:28: Cancel pending cells
+Info 12:53:28: Cell 2 executed with state Error
+Info 12:53:38: Execute Cells request 2
+Info 12:53:38: Execute Cell 2 /workspace/src/postgres_jupyter.ipynb
+Info 12:53:39: Cell 2 executed with state Success

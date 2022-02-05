@@ -1,0 +1,46 @@
+[2022-02-05 12:50:13.795] [exthost] [info] Extension host with pid 259 started
+[2022-02-05 12:50:13.820] [exthost] [info] Lock '/home/jovyan/.vscode-server/data/User/workspaceStorage/71a7ac88af9801f4f91d413957f2a40b/vscode.lock': Lock acquired.
+[2022-02-05 12:50:13.850] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebook:jupyter-notebook}'
+[2022-02-05 12:50:13.881] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-05 12:50:13.902] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-05 12:50:13.932] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-02-05 12:50:14.055] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-05 12:50:14.212] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-05 12:50:14.281] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-05 12:50:14.293] [exthost] [info] Eager extensions activated
+[2022-02-05 12:50:16.723] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1464
+[2022-02-05 12:50:20.055] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1464
+[2022-02-05 12:50:26.922] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1464
+[2022-02-05 12:50:34.458] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1526
+[2022-02-05 12:50:39.615] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'onNotebook:*'
+[2022-02-05 12:50:39.629] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-02-05 12:50:41.776] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1750
+[2022-02-05 12:50:48.653] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1731
+[2022-02-05 12:50:55.441] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1731
+[2022-02-05 12:51:03.310] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1755
+[2022-02-05 12:51:12.089] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 2759
+[2022-02-05 12:51:29.909] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5261
+[2022-02-05 12:51:56.527] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-02-05 12:51:56.960] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-02-05 12:52:13.919] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 8076
+[2022-02-05 12:52:24.468] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 8076
+[2022-02-05 12:52:40.300] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 8076
+[2022-02-05 12:52:49.835] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 8076
+[2022-02-05 12:53:13.687] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 8076
+[2022-02-05 12:53:25.014] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 8077
+[2022-02-05 12:53:27.720] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2022-02-05 12:53:27.723] [exthost] [error] Error: request cancelled
+	at /home/jovyan/.vscode-server/extensions/ms-toolsai.jupyter-2022.1.1001775990/out/client/extension.js:66:685154
+	at /home/jovyan/.vscode-server/extensions/ms-toolsai.jupyter-2022.1.1001775990/out/client/extension.js:66:685448
+	at Immediate.<anonymous> (/home/jovyan/.vscode-server/extensions/ms-toolsai.jupyter-2022.1.1001775990/out/client/extension.js:66:685811)
+	at processImmediate (internal/timers.js:461:21)
+[2022-02-05 12:53:29.723] [exthost] [error] [ms-toolsai.jupyter] provider FAILED
+[2022-02-05 12:53:29.724] [exthost] [error] Error: request cancelled
+	at /home/jovyan/.vscode-server/extensions/ms-toolsai.jupyter-2022.1.1001775990/out/client/extension.js:66:685154
+	at /home/jovyan/.vscode-server/extensions/ms-toolsai.jupyter-2022.1.1001775990/out/client/extension.js:66:685448
+	at Immediate.<anonymous> (/home/jovyan/.vscode-server/extensions/ms-toolsai.jupyter-2022.1.1001775990/out/client/extension.js:66:685811)
+	at processImmediate (internal/timers.js:461:21)
+[2022-02-05 12:53:34.616] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 8080
+[2022-02-05 12:53:44.227] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 8080
+[2022-02-05 12:53:54.128] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 8080
+[2022-02-05 12:54:03.468] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 8080

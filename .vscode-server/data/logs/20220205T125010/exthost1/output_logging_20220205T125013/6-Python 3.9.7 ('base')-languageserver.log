@@ -1,0 +1,15 @@
+[Info  - 12:53:20 PM] (1000) Pylance language server 2022.2.0 (pyright 65946fc7) starting
+[Info  - 12:53:20 PM] (1000) Server root directory: /home/jovyan/.vscode-server/extensions/ms-python.vscode-pylance-2022.2.0/dist
+[Info  - 12:53:20 PM] (1000) No configuration file found.
+[Info  - 12:53:20 PM] (1000) No pyproject.toml file found.
+[Info  - 12:53:20 PM] (1000) Setting pythonPath for service "workspace": "/opt/conda/bin/python"
+[Warn  - 12:53:20 PM] (1000) stubPath /workspace/typings is not a valid directory.
+[Info  - 12:53:20 PM] (1000) Assuming Python version 3.9
+[Info  - 12:53:20 PM] (1000) Assuming Python platform Linux
+[Warn  - 12:53:20 PM] (1000) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 12:53:20 PM] (1000) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 12:53:20 PM] (1000) Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 12:53:20 PM] (1000) Searching for source files
+[Info  - 12:53:27 PM] (1000) Found 6024 source files
+[Info  - 12:53:27 PM] (1000) Background analysis(1) root directory: /home/jovyan/.vscode-server/extensions/ms-python.vscode-pylance-2022.2.0/dist
+[Info  - 12:53:27 PM] (1000) Background analysis(1) started

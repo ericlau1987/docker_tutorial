@@ -1,0 +1,5 @@
+[user]
+	email = ericlau1987@gmail.com
+	name = ericlau1987
+[credential]
+	helper = "!f() { /home/jovyan/.vscode-server/bin/5554b12acf27056905806867f251c859323ff7e9/node /tmp/vscode-remote-containers-86fb91e65e3420b18a60ce6792b953bbcf985e90.js $*; }; f"
